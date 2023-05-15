@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Wilderness Flash Events Notifier",
+  "short_name": "Wilderness Events",
+  "version": "1.2",
+  "description": "Stay on top of RuneScape's Wilderness Flash Events with details, countdown timers, and notifications for upcoming events!",
+  "icons": {
+    "128": "icons/icon.png"
+  },
+  "developer": {
+    "name": "ryan@spegal.dev",
+    "url": "https://wilderness.spegal.dev"
+  },
+  "applications": {
+    "gecko": {
+      "id": "{1e9b744c-1b40-42f4-8b7d-19f66eae7459}"
+    }
+  },
+  "browser_action": {
+    "default_title": "Wilderness Flash Events Notifier",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "notifications",
+    "storage"
+  ]
+}
