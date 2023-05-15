@@ -1,4 +1,4 @@
-# Wilderness Flash Events Notifier
+# RS3 Wilderness Flash Events Notifier
 
 * [Install on Chrome](https://chrome.google.com/webstore/detail/wilderness-flash-events-n/inmdgjgpkbinjfmoloidfkhachaolgah)
 
