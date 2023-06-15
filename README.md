@@ -26,4 +26,4 @@ Level up your RuneScape journey with the "Wilderness Flash Event Tracker" Chrome
 
 -----
 
-If you enjoy this extension, please consider [buying me a coffee](https://out.spegal.dev/coffee)! 😁
+If you find this exension useful, consider [buying me a coffee ☕](https://out.spegal.dev/coffee)
