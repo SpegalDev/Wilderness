@@ -23,3 +23,7 @@ Key Features:
  - User-Friendly Interface: Seamlessly integrated into your Chrome browser, the extension boasts an intuitive interface. It's designed to be easy to navigate, so you can quickly access the information you need without interrupting your gaming experience.
 
 Level up your RuneScape journey with the "Wilderness Flash Event Tracker" Chrome extension. Don't let the thrill pass you by - be the first to know, prepare, and conquer the epic Wilderness Flash Events. Download now and unlock a world of exhilaration!
+
+-----
+
+If you enjoy this extension, please consider [buying me a coffee](https://out.spegal.dev/coffee)! 😁
