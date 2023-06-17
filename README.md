@@ -6,11 +6,11 @@
 
 Stay on top of RuneScape's Wilderness Flash Events with details, countdown timers, and notifications for upcoming events!
 
-Introducing "Wilderness Flash Event Tracker" - Your Ultimate RuneScape Chrome Extension
+Introducing "Wilderness Flash Event Tracker" - Your Ultimate RuneScape Browser Extension
 
 Never miss out on another special Wilderness flash event in RuneScape! The "Wilderness Flash Event Tracker" is your go-to companion, providing you with real-time information on upcoming events, countdown timers, and convenient notifications to ensure you never let an event slip away.
 
-Stay ahead of the game as you explore the treacherous lands of the Wilderness. With this powerful Chrome extension, you can effortlessly stay informed about the next adrenaline-pumping event that awaits you. Get a glimpse into the future and plan your adventures accordingly.
+Stay ahead of the game as you explore the treacherous lands of the Wilderness. With this powerful browser extension, you can effortlessly stay informed about the next adrenaline-pumping event that awaits you. Get a glimpse into the future and plan your adventures accordingly.
 
 Key Features:
 
@@ -20,9 +20,9 @@ Key Features:
 
  - Notifications: Receive timely reminders when an event is about to start. Whether you're slaying demons or delving into dangerous dungeons, this extension will keep you informed, ensuring you're ready for action.
 
- - User-Friendly Interface: Seamlessly integrated into your Chrome browser, the extension boasts an intuitive interface. It's designed to be easy to navigate, so you can quickly access the information you need without interrupting your gaming experience.
+ - User-Friendly Interface: Seamlessly integrated into your browser, the extension boasts an intuitive interface. It's designed to be easy to navigate, so you can quickly access the information you need without interrupting your gaming experience.
 
-Level up your RuneScape journey with the "Wilderness Flash Event Tracker" Chrome extension. Don't let the thrill pass you by - be the first to know, prepare, and conquer the epic Wilderness Flash Events. Download now and unlock a world of exhilaration!
+Level up your RuneScape journey with the "Wilderness Flash Event Tracker" browser extension. Don't let the thrill pass you by - be the first to know, prepare, and conquer the epic Wilderness Flash Events. Download now and unlock a world of exhilaration!
 
 -----
 
