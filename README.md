@@ -20,7 +20,7 @@ Key Features:
 
  - Notifications: Receive timely reminders when an event is about to start. Whether you're slaying demons or delving into dangerous dungeons, this extension will keep you informed, ensuring you're ready for action.
 
- - User-Friendly Interface: Seamlessly integrated into your browser, the extension boasts an intuitive interface. It's designed to be easy to navigate, so you can quickly access the information you need without interrupting your gaming experience.
+ - User-Friendly Interface: Seamlessly integrated into your Chrome or Firefox browser, the extension boasts an intuitive interface. It's designed to be easy to navigate, so you can quickly access the information you need without interrupting your gaming experience.
 
 Level up your RuneScape journey with the "Wilderness Flash Event Tracker" browser extension. Don't let the thrill pass you by - be the first to know, prepare, and conquer the epic Wilderness Flash Events. Download now and unlock a world of exhilaration!
 
