@@ -80,6 +80,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 link: 'https://runescape.wiki/w/Wilderness_Flash_Events#Evil_Bloodwood_Tree',
                 icon: 'icons/tree-icon.png'
             },
+            'Stryke the Wyrm': {
+                link: 'https://runescape.wiki/w/Wilderness_Flash_Events#Stryke_the_Wyrm',
+                icon: 'icons/wyrm-icon.png'
+            },
             default: {
                 link: 'https://runescape.wiki/w/Wilderness_Flash_Events',
                 icon: 'icons/icon.png'
