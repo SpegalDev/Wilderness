@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Wilderness Flash Events Notifier",
   "short_name": "Wilderness Events",
-  "version": "1.3",
+  "version": "1.4",
   "description": "Stay on top of RuneScape's Wilderness Flash Events with details, countdown timers, and notifications for upcoming events!",
   "icons": {
     "128": "icons/icon.png"

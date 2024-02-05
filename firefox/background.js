@@ -6,6 +6,7 @@ const EVENT_ICONS = {
   'King Black Dragon Rampage': 'icons/kbd-icon.png',
   'Infernal Star': 'icons/star-icon.png',
   'Evil Bloodwood Tree': 'icons/tree-icon.png',
+  'Stryke the Wyrm': 'icons/wyrm-icon.png',
   default: 'icons/icon.png',
 };
 
@@ -110,6 +111,9 @@ function getNotificationMessage(upcomingEventName) {
   }
   if (upcomingEventName.includes('Evil Bloodwood Tree')) {
     return 'Bloodshed in the Wilderness has encouraged the growth of a particularly powerful evil tree it will sprout soon south of the Wilderness Crater.';
+  }
+  if (upcomingEventName.includes('Stryke the Wyrm')) {
+    return 'The Wilderness Wyrm is angry and on the attack.';
   }
   return upcomingEventName;
 }
