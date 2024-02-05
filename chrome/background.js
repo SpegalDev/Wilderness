@@ -113,7 +113,7 @@ function getNotificationMessage(upcomingEventName) {
     return 'Bloodshed in the Wilderness has encouraged the growth of a particularly powerful evil tree it will sprout soon south of the Wilderness Crater.';
   }
   if (upcomingEventName.includes('Stryke the Wyrm')) {
-    return 'The Wilderness Wyrm is angry and on the attack.';
+    return 'A huge strykewyrm has been disturbed near the source of the River Lum and is burrowing towards the surface.';
   }
   return upcomingEventName;
 }
