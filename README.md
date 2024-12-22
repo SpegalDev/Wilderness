@@ -26,4 +26,6 @@ Level up your RuneScape journey with the "Wilderness Flash Event Tracker" browse
 
 -----
 
-If you find this exension useful, consider [buying me a coffee ☕](https://out.spegal.dev/coffee)
+If you find this exension useful, consider buying me a coffee or two.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K7MJJ4Y)
