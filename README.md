@@ -1,3 +1,11 @@
+Wilderness Flash Events were removed from RuneScape
+
+Jagex has removed Wilderness Flash Events from RuneScape, which means this extension no longer serves a purpose.
+
+Because of that, I have officially discontinued this project and removed it from both the Chrome Web Store and Firefox Add-ons store.
+
+------------------------------------------
+
 # RuneScape 3 Wilderness Flash Events Notifier
 
 * [Install on Chrome](https://chrome.google.com/webstore/detail/wilderness-flash-events-n/inmdgjgpkbinjfmoloidfkhachaolgah)
