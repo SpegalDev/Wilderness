@@ -8,10 +8,6 @@ Because of that, I have officially discontinued this project and removed it from
 
 # RuneScape 3 Wilderness Flash Events Notifier
 
-* [Install on Chrome](https://chrome.google.com/webstore/detail/wilderness-flash-events-n/inmdgjgpkbinjfmoloidfkhachaolgah)
-
-* [Install on Firefox](https://addons.mozilla.org/en-US/firefox/addon/rs3-wilderness-flash-events/)
-
 Stay on top of RuneScape's Wilderness Flash Events with details, countdown timers, and notifications for upcoming events!
 
 Introducing "Wilderness Flash Event Tracker" - Your Ultimate RuneScape Browser Extension
